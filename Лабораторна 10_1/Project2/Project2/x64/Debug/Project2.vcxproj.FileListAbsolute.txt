@@ -1,0 +1,4 @@
+D:\Лабораторна 10_1\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\Лабораторна 10_1\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\Лабораторна 10_1\Project2\Project2\x64\Debug\Project2.MyForm.resources
+D:\Лабораторна 10_1\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
